@@ -1,0 +1,126 @@
+{
+    "orders_summary": [
+        {
+            "title": "Total sales",
+            "number": "100.00 SR",
+            "percentage": "10%",
+            "color": "0xff3AC2CB",
+            "status": true,
+            "image": "assets/images/dollar-square.svg"
+        },
+        {
+            "title": "Total orders",
+            "number": "100  orders",
+            "percentage": "10%",
+            "color": "0xffF12E67",
+            "status": true,
+            "image": "assets/images/bag.svg"
+        },
+        {
+            "title": "Total income",
+            "number": "100.00 SR",
+            "percentage": "10%",
+            "color": "0xffFE9518",
+            "status": false,
+            "image": "assets/images/coin.svg"
+        }
+    ],
+    "seller_summary": [
+        {
+            "title": "new orders",
+            "percentage": "70%",
+            "color": "0xff3AC2CB"
+        },
+        {
+            "title": "Shipped Orders",
+            "percentage": "70%",
+            "color": "0xffFE9518"
+        },
+        {
+            "title": "Completed Orders",
+            "percentage": "70%",
+            "color": "0xff34B53A"
+        },
+        {
+            "title": "Returned Applications",
+            "percentage": "10%",
+            "color": "0xffF12E67"
+        }
+    ],
+    "statistics": [
+        {
+            "title": "Sales",
+            "percentage": "70%",
+            "color": "0xff3AC2CB",
+            "statistice":[
+
+                {
+                    "day":"sat",
+                    "sale":10
+                },
+                {
+                    "day":"sat",
+                    "sale":10
+                },  {
+                    "day":"sat",
+                    "sale":10
+                }
+                ,  {
+                    "day":"sat",
+                    "sale":10
+                }
+            ]
+        },
+        {
+            "title": "Returned",
+            "percentage": "70%",
+            "color": "0xffF12E67",
+            "statistice":[
+
+                {
+                    "day":"sat",
+                    "sale":10
+                },
+                {
+                    "day":"sat",
+                    "sale":10
+                },  {
+                    "day":"sat",
+                    "sale":10
+                }
+                ,  {
+                    "day":"sat",
+                    "sale":10
+                }
+            ]
+        },
+        {
+            "title": "new clients            ",
+            "percentage": "70%",
+            "color": "0xffFE9518",
+            "statistice":[
+
+                {
+                    "day":"sat",
+                    "sale":10
+                },
+                {
+                    "day":"sat",
+                    "sale":10
+                },  {
+                    "day":"sat",
+                    "sale":10
+                }
+                ,  {
+                    "day":"sat",
+                    "sale":10
+                }
+            ]
+        },
+        {
+            "title": "total sales : 1000 SR",
+            "percentage": "",
+            "color": "0"
+        }
+    ]
+}
